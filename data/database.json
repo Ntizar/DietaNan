@@ -1,0 +1,23 @@
+{
+  "meta": {
+    "nombre": "Tu Nombre",
+    "altura_cm": 174,
+    "peso_inicial_kg": 90,
+    "peso_objetivo_kg": 80,
+    "fecha_inicio": "2026-01-01",
+    "created_at": "2026-06-11T00:00:00Z",
+    "updated_at": "2026-06-11T00:00:00Z",
+    "version": "3.0.0"
+  },
+  "perfil": {
+    "edad": 30,
+    "genero": "masculino",
+    "altura_cm": 174,
+    "nivel_actividad": "activo",
+    "notas": "Entrena 4x/semana, 10k pasos objetivo"
+  },
+  "peso": [],
+  "comidas": [],
+  "deporte": [],
+  "pasos": []
+}
