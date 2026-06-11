@@ -18,6 +18,15 @@ FitTrack es una **web app completa** que te permite:
 
 ---
 
+## 🌐 Demo en Vivo
+
+Abre `index.html` en tu navegador para ver la landing page con acceso directo al dashboard:
+👉 https://Ntizar.github.io/DietaNan/ (cuando despliegues en GitHub Pages)
+
+O simplemente abre `dashboard.html` directamente para ir al tracking.
+
+---
+
 ## 🚀 Guía de Instalación Paso a Paso
 
 ### Prerrequisitos
