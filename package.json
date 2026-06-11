@@ -1,0 +1,12 @@
+{
+  "name": "masterfit-dashboard",
+  "version": "3.0.0",
+  "description": "MasterFit — Dashboard interactivo de dieta con IA",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}
